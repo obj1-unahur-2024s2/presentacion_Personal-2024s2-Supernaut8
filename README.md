@@ -1,6 +1,6 @@
-#Guido Roces
+# Guido Roces
 
-##Tecnicatura en programación
+## Tecnicatura en programación
 
 ## Materias en curso: 
 * Programación con objetos I
@@ -22,3 +22,5 @@ En este momento me encuetro en un trabajo con poca relación con la carrera, y e
 * Ciencia.
 * Medioambiente.
 * Fútbol.
+
+<img src="./assets/SCSC.jpg" alt="Champloo image">
