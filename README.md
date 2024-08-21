@@ -2,6 +2,8 @@
 
 ## Tecnicatura en programación
 
+<img src="./assets/SCSC.jpg" alt="Champloo image" style="width:300px">
+
 ## Materias en curso: 
 * Programación con objetos I
 * Redes
