@@ -2,7 +2,7 @@
 
 ## Tecnicatura en programación
 
-<img src="./assets/SCSC.jpg" alt="Champloo image" style="width:300px">
+<img src="./assets/SCSC.jpg" alt="Champloo image" style="width:450px">
 
 ## Materias en curso: 
 * Programación con objetos I
@@ -25,4 +25,4 @@ En este momento me encuetro en un trabajo con poca relación con la carrera, y e
 * Medioambiente.
 * Fútbol.
 
-<img src="./assets/SCSC.jpg" alt="Champloo image">
+
