@@ -1,35 +1,24 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+#Guido Roces
 
-Bienvenidxs a
-# Programación con objetos I
+##Tecnicatura en programación
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+## Materias en curso: 
+* Programación con objetos I
+* Redes
+* Matemática II
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+En cuanto a la materia espero aprender no solo aprobar la misma, la teoría de objetos en particular es algo que ya vengo utilizando
+en algunos cursos de desarrollo web tanto en JAVA como en JS, pero con la materia espero profundizar para poder mejorar dichas prácticas.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+En este momento me encuetro en un trabajo con poca relación con la carrera, y espero a corto plazo cambiar esa situación. 
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Intereses:
+* Musica.
+* Cine.
+* Lectura.
+* Informática.
+* Ciencia.
+* Medioambiente.
+* Fútbol.
